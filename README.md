@@ -1,6 +1,6 @@
 # 🚀 Automated Recruitment 
 
-![App Interface](./public/images/preview.png)
+![Application Preview](./frontend/project_recrutement_react/public/images/preview.png)
 
 An end-to-end full-stack automated recruitment and candidate management platform built with modern web technologies, scalable backend architectures, and a responsive frontend interface.
 
